@@ -10,5 +10,4 @@ Every intern must carve their name and a fun fact onto the wall — but only thr
 
 1. Alice — I can juggle!
 2. Bob — I once built a robot from scrap!
-3. Tsvetan - Im just testing the PR rule.
-4. Dimitar - Testing PR rule
+3. Tsvetan - Im just seting up this game.
