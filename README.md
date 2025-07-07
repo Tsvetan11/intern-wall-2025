@@ -10,5 +10,4 @@ Every intern must carve their name and a fun fact onto the wall — but only thr
 
 1. Alice — I can juggle!
 2. Bob — I once built a robot from scrap!
-3. [Your name goes here next!]
 
