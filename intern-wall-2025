@@ -18,9 +18,13 @@
 18. Ivan - I can cook!
 19. Maria - I love hiking and photography!
 20. Q kato b
+<<<<<<< HEAD
 21.android studio
 22. Hello World!
 23. SEsse
 24. seSSE
 25. now red
 26. SEsse
+=======
+21. Hello World!
+>>>>>>> 3b6d0b4 (Add meaningful message (#24))
